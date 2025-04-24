@@ -20,44 +20,44 @@ product-family:
       tags: workloads 
   tiles:
     # optional link to intro-family.adoc 
-    - title: 
-      icon: # ./media/ followed by the icon file name
-      url: intro-family.html
-      summary: 
-      tags:
+    #- title: 
+    #  icon: # ./media/ followed by the icon file name
+    #  url: intro-family.html
+    #  summary: 
+    #  tags:
     # one or more tile definitions for the page
     - title: Virtualization solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to deliver agile, reliable, and efficient data infrastructure across virtualized environments. 
-      tags: automation,protection,entapps,ha,workloads
+      tags: all,automation,protection,entapps,ha,workloads
     - title: Artificial intelligence solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to enable performance, productivity, and protection of your data.
-      tags: automation,protection,devops,entapps,ha,workloads
+      tags: all,automation,protection,devops,entapps,ha,workloads
     - title: Public and hybrid cloud solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to simplify workload mobility, deliver enterprise-grade performance, and unify data management across on-premises and multicloud environments. 
-      tags: Data protection,devops,entapps,ha,workloads
+      tags: all,Data protection,devops,entapps,ha,workloads
     - title: Database solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to unlock the full potential of NetApp storage across major enterprise databases.
-      tags: automation,protection,entapps,ha
+      tags: all,automation,protection,entapps,ha
     - title: SAP and SAP HANA solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
-      tags: automation,protection,devops,entapps,ha,workloads
+      tags: all,automation,protection,devops,entapps,ha,workloads
     - title: Container solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to simplify and scale Kubernetes environments with validated deployments and seamless integration with NetApp storage management systems and software.
-      tags: automation,protection,devops,entapps
+      tags: all,automation,protection,devops,entapps
     - title: Data management solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
       summary: Solutions to manage your storage and data services, on premises and across clouds.
-      tags: automation,protection,devops,entapps,ha,workloads
+      tags: all,automation,protection,devops,entapps,ha,workloads
