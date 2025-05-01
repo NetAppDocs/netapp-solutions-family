@@ -19,13 +19,10 @@ product-family:
     - title: Workloads
       tags: workloads 
   tiles:
-    # optional link to intro-family.adoc 
-    #- title: 
-    #  icon: # ./media/ followed by the icon file name
-    #  url: intro-family.html
-    #  summary: 
-    #  tags:
-    # one or more tile definitions for the page
+    - title: Learn about NetApp Solutions
+      icon: ./media/icon-placeholder.png
+      url: intro-family.html
+
     - title: Virtualization solutions
       icon: ./media/icon-placeholder.png
       url: # typically relative path url to member site
