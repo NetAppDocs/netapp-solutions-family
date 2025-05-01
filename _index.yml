@@ -20,8 +20,9 @@ product-family:
       tags: workloads 
   tiles:
     - title: Learn about NetApp Solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/family.png
       url: intro-family.html
+      tags: all
 
     - title: Virtualization solutions
       icon: ./media/icon-placeholder.png
