@@ -25,7 +25,7 @@ product-family:
       tags: all
 
     - title: Virtualization solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_virtualization_ieops-2280.png
       url: # typically relative path url to member site
       summary: Solutions to deliver agile, reliable, and efficient data infrastructure across virtualized environments. 
       tags: all,automation,ha,workloads
@@ -37,7 +37,7 @@ product-family:
       tags: all,automation,workloads
 
     - title: Public and hybrid cloud solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_public_hybrid_ieops-2281.png
       url: # typically relative path url to member site
       summary: Solutions to simplify workload mobility, deliver enterprise-grade performance, and unify data management across on-premises and multicloud environments. 
       tags: all,ha,protection,workloads
