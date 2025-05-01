@@ -8,4 +8,29 @@ summary:
 :imagesdir: ./media/
 
 [.lead]
-// learn more about this file https://review.docs.netapp.com/us-en/docs-help/repo-family/setup-info-family.html
+NetApp Solutions offers a comprehensive suite of resources tailored to address diverse IT challenges across a range of technology domains. Organized into distinct solution sites, each one brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business.
+
+Here's an overview of these solution sites.
+
+== Virtualization
+This solution site covers NetApp’s integrations with leading virtualization platforms and shows you how to streamline management, boost resource efficiency, and optimize performance across your environment.
+
+== Artificial Intelligence (AI)
+This solution site provides resources, tools, and proven approaches to help you accelerate machine learning and deep learning workloads. It covers data pipeline optimization, scalable training environments, and NetApp integrations with leading AI frameworks, so you can deliver insights faster and at scale.
+
+== Public and hybrid cloud
+This solution site equips you with strategies, tools, and deployment guidance for running NetApp technologies in cloud and hybrid environments. It covers integrations with major cloud providers and helps you ensure data mobility, consistency, and control across your infrastructure.
+
+== Databases
+This solution site brings together best practices, deployment guides, and tools for running enterprise databases on NetApp infrastructure. It covers solutions tailored for database environments, including Oracle and SQL Server, helping you simplify backup and recovery, improve performance, and protect critical data.
+
+== SAP and SAP HANA
+This solution site brings together architecture guidance, deployment tools, and operational best practices to help you run SAP workloads with speed and reliability. It covers validated designs, performance optimization, and data protection strategies, so you can simplify operations and get the most from your SAP investments.
+
+== Containers
+This solution site provides resources and tools to help you run stateful applications with confidence in Kubernetes and containerized environments. It covers persistent storage, application mobility, and NetApp integrations with orchestration platforms, so you can scale faster with less complexity.
+
+== Data management
+This solution site provides guidance for managing large-scale analytics workloads. It covers solutions for platforms like Splunk and Apache Spark, helping you move data faster, improve query performance, and simplify data operations across hybrid environments.
+
+
