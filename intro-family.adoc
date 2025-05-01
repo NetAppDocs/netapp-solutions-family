@@ -3,7 +3,7 @@ permalink: intro-family.html
 keywords: 
 summary: 
 ---
-= Page title goes here
+= Learn about NetApp Solutions
 :icons: font
 :imagesdir: ./media/
 
