@@ -32,7 +32,7 @@ product-family:
       tags: all,automation,ha,workloads
 
     - title: Artificial intelligence solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_artificial_intelligence_ieops-2282.png
       url: # typically relative path url to member site
       summary: Solutions to enable performance, productivity, and protection of your data.
       tags: all,automation,workloads
@@ -44,13 +44,13 @@ product-family:
       tags: all,ha,protection,workloads
 
     - title: Database solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_databases_ieops-2283.png
       url: # typically relative path url to member site
       summary: Solutions to unlock the full potential of NetApp storage across major enterprise databases.
       tags: all,entapps,ha,protection,workloads
 
     - title: SAP and SAP HANA solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_sap_hana_ieops-2285.png
       url: # typically relative path url to member site
       summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
       tags: all,entapps,ha,protection,workloads
