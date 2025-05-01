@@ -62,7 +62,7 @@ product-family:
       tags: all,automation,devops,workloads
 
     - title: Data management solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_analytics_ieops-2283.png
       url: # typically relative path url to member site
       summary: Solutions to manage your storage and data services, on premises and across clouds.
       tags: all,automation,protection,workloads
