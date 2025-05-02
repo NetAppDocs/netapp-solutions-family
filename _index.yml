@@ -56,7 +56,7 @@ product-family:
       tags: all,entapps,ha,protection,workloads
 
     - title: Container solutions
-      icon: ./media/icon-placeholder.png
+      icon: ./media/icon_containers_ieops-2284
       url: # typically relative path url to member site
       summary: Solutions to simplify and scale Kubernetes environments with validated deployments and seamless integration with NetApp storage management systems and software.
       tags: all,automation,devops,workloads
