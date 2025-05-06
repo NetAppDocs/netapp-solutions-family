@@ -51,7 +51,7 @@ product-family:
 
     - title: SAP and SAP HANA solutions
       icon: ./media/icon_sap_hana_ieops-2285.png
-      url: ../netapp-solutions-sap-hana/index.html
+      url: ../netapp-solutions-sap/index.html
       summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
       tags: all,entapps,ha,protection,workloads
 
