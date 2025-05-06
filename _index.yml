@@ -27,7 +27,7 @@ product-family:
 
     - title: Virtualization solutions
       icon: ./media/icon_virtualization_ieops-2280.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-virtualization/
       summary: Solutions to deliver agile, reliable, and efficient data infrastructure across virtualized environments. 
       tags: all,automation,ha,workloads
 
@@ -39,19 +39,19 @@ product-family:
 
     - title: Public and hybrid cloud solutions
       icon: ./media/icon_public_hybrid_ieops-2281.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-cloud/
       summary: Solutions to simplify workload mobility, deliver enterprise-grade performance, and unify data management across on-premises and multicloud environments. 
       tags: all,ha,protection,workloads
 
     - title: Database solutions
       icon: ./media/icon_databases_ieops-2283.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-databases/
       summary: Solutions to unlock the full potential of NetApp storage across major enterprise databases.
       tags: all,entapps,ha,protection,workloads
 
     - title: SAP and SAP HANA solutions
       icon: ./media/icon_sap_hana_ieops-2285.png
-      url: ../netapp-solutions-sap/index.html
+      url: https://docs.netapp.com/us-en/netapp-solutions-sap/
       summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
       tags: all,entapps,ha,protection,workloads
 
@@ -63,6 +63,6 @@ product-family:
 
     - title: Data management solutions
       icon: ./media/icon_analytics_ieops-2283.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-dataops/
       summary: Solutions to manage your storage and data services, on premises and across clouds.
       tags: all,automation,protection,workloads

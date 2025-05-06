@@ -15,7 +15,7 @@ Solutions are organized by technology domains.
 == Virtualization
 Access NetApp integrations with leading virtualization platforms. Streamline management, boost resource efficiency, and optimize performance across your environment.
 
-link:https://www.netapp.com/us/solutions/virtualization/index.html[View virtualization solutions].
+link::https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-virtualization/[View virtualization solutions].
 
 == Artificial Intelligence (AI)
 Accelerate machine learning and deep learning workflows with NetApp’s AI solutions. Explore how to integrate NetApp storage with popular AI frameworks, optimize data pipelines, and efficiently deploy AI workloads.
@@ -25,12 +25,12 @@ link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-ai/[Vi
 == Public and hybrid cloud
 Deploy and manage NetApp solutions seamlessly across public, private, and hybrid cloud infrastructures. Explore integrations with major cloud providers to enable consistent operations and agile data mobility.
 
-link:https://www.netapp.com/us/solutions/cloud/index.html[View cloud solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-cloud/[View cloud solutions].
 
 == Databases
 Optimize storage and performance for enterprise databases such as Oracle and SQL Server. Access best practices for backup, recovery, and tuning to ensure reliable support for mission-critical workloads.
 
-link:https://www.netapp.com/us/solutions/databases/index.html[View database solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-databases/[View database solutions].
 
 == SAP and SAP HANA
 Explore validated designs, performance optimization techniques, and data protection strategies to simplify operations and maximize the value of your SAP investments.
