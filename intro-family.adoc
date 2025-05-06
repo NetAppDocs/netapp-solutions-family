@@ -20,7 +20,7 @@ link:https://www.netapp.com/us/solutions/virtualization/index.html[View virtuali
 == Artificial Intelligence (AI)
 Accelerate machine learning and deep learning workflows with NetApp’s AI solutions. Explore how to integrate NetApp storage with popular AI frameworks, optimize data pipelines, and efficiently deploy AI workloads.
 
-link:https://www.netapp.com/us/solutions/artificial-intelligence/index.html[View AI solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-ai/[View AI solutions].
 
 == Public and hybrid cloud
 Deploy and manage NetApp solutions seamlessly across public, private, and hybrid cloud infrastructures. Explore integrations with major cloud providers to enable consistent operations and agile data mobility.
@@ -35,12 +35,12 @@ link:https://www.netapp.com/us/solutions/databases/index.html[View database solu
 == SAP and SAP HANA
 Explore validated designs, performance optimization techniques, and data protection strategies to simplify operations and maximize the value of your SAP investments.
 
-link:https://www.netapp.com/us/solutions/sap/index.html[View SAP solutions].
+link:https://docs.netapp.com/us-en/netapp-solutions-sap/[View SAP solutions].
 
 == Containers
 Support containerized applications with persistent storage and data management solutions from NetApp. Discover integration strategies with orchestration platforms to enhance scalability and resilience.
 
-link:https://www.netapp.com/us/solutions/containers/index.html[View container solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-containers/[View container solutions].
 
 == Data management
 Support large-scale analytics platforms like Splunk and Apache Spark with high-performance data solutions. Learn how NetApp helps maintain data integrity and optimize performance across complex analytics environments.

@@ -33,7 +33,7 @@ product-family:
 
     - title: Artificial intelligence solutions
       icon: ./media/icon_artificial_intelligence_ieops-2282.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-ai/
       summary: Solutions to enable performance, productivity, and protection of your data.
       tags: all,automation,workloads
 
@@ -51,13 +51,13 @@ product-family:
 
     - title: SAP and SAP HANA solutions
       icon: ./media/icon_sap_hana_ieops-2285.png
-      url: # typically relative path url to member site
+      url: ../netapp-solutions-sap-hana/index.html
       summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
       tags: all,entapps,ha,protection,workloads
 
     - title: Container solutions
       icon: ./media/icon_containers_ieops-2284.png
-      url: # typically relative path url to member site
+      url: https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-containers/
       summary: Solutions to simplify and scale Kubernetes environments with validated deployments and seamless integration with NetApp storage management systems and software.
       tags: all,automation,devops,workloads
 
