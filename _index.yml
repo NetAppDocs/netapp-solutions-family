@@ -20,7 +20,7 @@ product-family:
       tags: workloads 
   tiles:
     - title: Learn about NetApp Solutions
-      icon: ./media/family.png
+      icon: ./media/icon_family_ieops-2302.png
       url: intro-family.html
       summary: Learn about NetApp Solutions.
       tags: all

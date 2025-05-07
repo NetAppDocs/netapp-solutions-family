@@ -15,7 +15,7 @@ Solutions are organized by technology domains.
 == Virtualization
 Access NetApp integrations with leading virtualization platforms. Streamline management, boost resource efficiency, and optimize performance across your environment.
 
-link::https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-virtualization/[View virtualization solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-virtualization/[View virtualization solutions].
 
 == Artificial Intelligence (AI)
 Accelerate machine learning and deep learning workflows with NetApp’s AI solutions. Explore how to integrate NetApp storage with popular AI frameworks, optimize data pipelines, and efficiently deploy AI workloads.
