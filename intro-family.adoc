@@ -45,4 +45,4 @@ link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-contai
 == Data management
 Support large-scale analytics platforms like Splunk and Apache Spark with high-performance data solutions. Learn how NetApp helps maintain data integrity and optimize performance across complex analytics environments.
 
-link:https://www.netapp.com/us/solutions/data-management/index.html[View data management solutions].
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-dataops/[View data management solutions].
