@@ -8,7 +8,7 @@ summary:
 :imagesdir: ./media/
 
 [.lead]
-NetApp Solutions offers a comprehensive suite of resources tailored to address diverse IT challenges. Each solution brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business. 
+NetApp Solutions offers a comprehensive suite of resources tailored to address diverse IT challenges. Each solution brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business.
  
 Solutions are organized by technology domains.
 
