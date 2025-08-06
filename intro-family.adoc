@@ -3,9 +3,46 @@ permalink: intro-family.html
 keywords: 
 summary: 
 ---
-= Page title goes here
+= Learn about NetApp solutions
 :icons: font
 :imagesdir: ./media/
 
 [.lead]
-// learn more about this file https://review.docs.netapp.com/us-en/docs-help/repo-family/setup-info-family.html
+NetApp solutions offer a comprehensive suite of resources tailored to address diverse IT challenges. Each solution brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business.
+ 
+Solutions are organized by technology domains.
+
+== Virtualization
+Access NetApp integrations with leading virtualization platforms. Streamline management, boost resource efficiency, and optimize performance across your environment.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-virtualization/[View virtualization solutions].
+
+== Artificial Intelligence (AI)
+Accelerate machine learning and deep learning workflows with NetApp’s AI solutions. Explore how to integrate NetApp storage with popular AI frameworks, optimize data pipelines, and efficiently deploy AI workloads.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-ai/[View AI solutions].
+
+== Public and hybrid cloud
+Deploy and manage NetApp solutions seamlessly across public, private, and hybrid cloud infrastructures. Explore integrations with major cloud providers to enable consistent operations and agile data mobility.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-cloud/[View cloud solutions].
+
+== Databases
+Optimize storage and performance for enterprise databases such as Oracle and SQL Server. Access best practices for backup, recovery, and tuning to ensure reliable support for mission-critical workloads.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-databases/[View database solutions].
+
+== SAP and SAP HANA
+Explore validated designs, performance optimization techniques, and data protection strategies to simplify operations and maximize the value of your SAP investments.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-sap/[View SAP solutions].
+
+== Containers
+Support containerized applications with persistent storage and data management solutions from NetApp. Discover integration strategies with orchestration platforms to enhance scalability and resilience.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-containers/[View container solutions].
+
+== Data management
+Support large-scale analytics platforms like Splunk and Apache Spark with high-performance data solutions. Learn how NetApp helps maintain data integrity and optimize performance across complex analytics environments.
+
+link:https://review.docs.netapp.com/us-en/netapp-solutions_site-prototype-dataops/[View data management solutions].
