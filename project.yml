@@ -1,5 +1,5 @@
 settings:
-  name: NetApp Solutions
+  name: NetApp solutions
   # search: netapp-solutions-virtualization,netapp-solutions-cloud,netapp-solutions-ai,netapp-solutions-databases,netapp-solutions-containers,netapp-solutions-dataops,netapp-solutions-sap
   internal:
     pdf_enabled: false
@@ -11,5 +11,5 @@ settings:
 
 sidebar: 
   entries:
-  - title: NetApp Solutions
+  - title: NetApp solutions
     url: /index.html

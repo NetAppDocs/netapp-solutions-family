@@ -3,12 +3,12 @@ permalink: intro-family.html
 keywords: 
 summary: 
 ---
-= Learn about NetApp Solutions
+= Learn about NetApp solutions
 :icons: font
 :imagesdir: ./media/
 
 [.lead]
-NetApp Solutions offers a comprehensive suite of resources tailored to address diverse IT challenges. Each solution brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business.
+NetApp solutions offer a comprehensive suite of resources tailored to address diverse IT challenges. Each solution brings together the right content and tools to help you put NetApp technologies to work in the ways that matter most to your business.
  
 Solutions are organized by technology domains.
 

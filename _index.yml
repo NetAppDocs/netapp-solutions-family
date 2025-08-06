@@ -1,7 +1,7 @@
 product-family:
-  title: NetApp Solutions
-  lead: Transform your IT infrastructure with NetApp Solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp Solutions.
-  summary: Transform your IT infrastructure with NetApp Solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp Solutions.
+  title: NetApp solutions
+  lead: Transform your IT infrastructure with NetApp solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp solutions.
+  summary: Transform your IT infrastructure with NetApp solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp solutions.
   sidebarlinks:
     - title: All
       tags: all
@@ -19,10 +19,10 @@ product-family:
     - title: Workloads
       tags: workloads 
   tiles:
-    - title: Learn about NetApp Solutions
+    - title: Learn about NetApp solutions
       icon: ./media/icon_family_ieops-2302.png
       url: intro-family.html
-      summary: Learn about NetApp Solutions.
+      summary: Learn about NetApp solutions.
       tags: all
 
     - title: Virtualization solutions
