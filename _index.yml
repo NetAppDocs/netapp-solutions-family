@@ -1,25 +1,68 @@
 product-family:
-  title: # single string
-  lead: # single paragraph, shown on the page
-  summary: 
-  sidebarlinks: 
-  # two or more filter definitions for the page
-    - title: All 
-      tags: # name for this filter
+  title: NetApp solutions
+  lead: Transform your IT infrastructure with NetApp solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp solutions.
+  summary: Transform your IT infrastructure with NetApp solutions, designed to streamline operations, enhance cloud management, and optimize storage. Browse the solutions by area of interest or use the search bar to find content anywhere in NetApp solutions.
+  sidebarlinks:
+    - title: All
+      tags: all
       class: active
-    - title: # first filter label
-      tags: # name for this filter 
-    # repeat as necessary   
+    - title: Automation
+      tags: automation
+    - title: Data Protection
+      tags: protection
+    - title: DevOps
+      tags: devops
+    - title: Enterprise applications
+      tags: entapps
+    - title: High Availability
+      tags: ha
+    - title: Workloads
+      tags: workloads 
   tiles:
-    # optional link to intro-family.adoc 
-    - title: 
-      icon: # ./media/ followed by the icon file name
+    - title: Learn about NetApp solutions
+      icon: ./media/icon_family_ieops-2302.png
       url: intro-family.html
-      summary: 
-      tags:
-    # one or more tile definitions for the page
-    - title: 
-      icon: # ./media/ followed by the icon file name
-      url: # typically relative path url to member site
-      summary: 
-      tags:
+      summary: Learn about NetApp solutions.
+      tags: all
+
+    - title: Virtualization solutions
+      icon: ./media/icon_virtualization_ieops-2280.png
+      url: netapp-solutions-virtualization/
+      summary: Solutions to deliver agile, reliable, and efficient data infrastructure across virtualized environments. 
+      tags: all,automation,ha,workloads
+
+    - title: Artificial intelligence solutions
+      icon: ./media/icon_artificial_intelligence_ieops-2282.png
+      url: netapp-solutions-ai/
+      summary: Solutions to enable performance, productivity, and protection of your data.
+      tags: all,automation,workloads
+
+    - title: Public and hybrid cloud solutions
+      icon: ./media/icon_public_hybrid_ieops-2281.png
+      url: netapp-solutions-cloud/
+      summary: Solutions to simplify workload mobility, deliver enterprise-grade performance, and unify data management across on-premises and multicloud environments. 
+      tags: all,ha,protection,workloads
+
+    - title: Database solutions
+      icon: ./media/icon_databases_ieops-2283.png
+      url: netapp-solutions-databases/
+      summary: Solutions to unlock the full potential of NetApp storage across major enterprise databases.
+      tags: all,entapps,ha,protection,workloads
+
+    - title: SAP and SAP HANA solutions
+      icon: ./media/icon_sap_hana_ieops-2285.png
+      url: netapp-solutions-sap/
+      summary: Solutions to maximize the performance and efficiency of your SAP and SAP HANA environments.
+      tags: all,entapps,ha,protection,workloads
+
+    - title: Container solutions
+      icon: ./media/icon_containers_ieops-2284.png
+      url: netapp-solutions-containers/
+      summary: Solutions to simplify and scale Kubernetes environments with validated deployments and seamless integration with NetApp storage management systems and software.
+      tags: all,automation,devops,workloads
+
+    - title: Data management solutions
+      icon: ./media/icon_analytics_ieops-2283.png
+      url: netapp-solutions-dataops/
+      summary: Solutions to manage your storage and data services, on premises and across clouds.
+      tags: all,automation,protection,workloads
