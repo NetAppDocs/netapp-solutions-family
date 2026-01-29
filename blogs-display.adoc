@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: blogs.html
+permalink: blogs-display.html
 summary: Collection of blogs introducing NetApp solutions 
 keywords: netapp, solutions, blogs
 ---
