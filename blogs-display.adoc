@@ -1,0 +1,57 @@
+---
+sidebar: sidebar
+permalink: blogs.html
+summary: Collection of blogs introducing NetApp solutions 
+keywords: netapp, solutions, blogs
+---
+
+= NetApp solution blogs
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Review the blogs below that offer practical guidance and best practices for integrating NetApp ONTAP storage in a variety of solutions.
+
+
+[role="tabbed-block"]
+====
+.All blogs
+--
+include::_include/blogs.adoc[**;*]
+--
+.AI
+--
+include::_include/blogs.adoc[tags=header;ai]
+--
+.Public and Hybrid cloud
+--
+include::_include/blogs.adoc[tags=header;cloud]
+--
+.Virtualization
+--
+include::_include/blogs.adoc[tags=header;virt]
+--
+.Containers
+--
+include::_include/blogs.adoc[tags=header;containers]
+--
+.SAP and SAP HAHA
+--
+include::_include/blogs.adoc[tags=header;sap]
+--
+.Database
+--
+include::_include/blogs.adoc[tags=header;db]
+--
+.Data Platform
+--
+include::_include/blogs.adoc[tags=header;dataops]
+--
+.Automation
+--
+include::_include/blogs.adoc[tags=header;automation]
+--
+====
