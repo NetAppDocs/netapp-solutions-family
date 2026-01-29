@@ -69,6 +69,6 @@ product-family:
 
     - title: Demo and Blogs
       icon: ./media/icon_blogs_demos-2286_v3.png
-      url: demos_and_blogs.html
+      url: blogs-display.html
       summary: Review the collection of technical demos and blogs for a variety of NetAp solutions.
       tags: all,automation,protection,workloads
