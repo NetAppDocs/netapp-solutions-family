@@ -1,40 +1,39 @@
 // tag::header[]
 [width=100%,cols="100%", frame=none, grid=rows, options="header"]
 |===
-| *Blog Title*
 // end::header[]
 // tag::virt[]
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893[ONTAP Tools for VMware 10.5 (Part 1 of 3): Hardening Your VMware Private Cloud]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893[ONTAP Tools for VMware 10.5 (Part 1 of 3): Hardening Your VMware Private Cloud]
 
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072[ONTAP Tools for VMware 10.5 (Part 2 of 3): Protecting your VMware vSphere and VCF Deployments]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072[ONTAP Tools for VMware 10.5 (Part 2 of 3): Protecting your VMware vSphere and VCF Deployments]
 
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312[ONTAP Tools for VMware 10.5 (Part 3 of 3): Supporting Your VMware Private Cloud]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312[ONTAP Tools for VMware 10.5 (Part 3 of 3): Supporting Your VMware Private Cloud]
 
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334[Simplifying VM Mobility: Windows Admin Center Extension Powered by NetApp Shift Toolkit]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334[Simplifying VM Mobility: Windows Admin Center Extension Powered by NetApp Shift Toolkit]
 // end::virt[]
 
 // tag::cloud[]
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395[Powering Microsoft Deployments with ONTAP: Scale what you want, when you want, where you want]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395[Powering Microsoft Deployments with ONTAP: Scale what you want, when you want, where you want]
 // end::cloud[]
 
 // tag::sap[]
-* link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/[SAP HANA data protection on Azure NetApp Files with SnapCenter]
+a| * link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/[SAP HANA data protection on Azure NetApp Files with SnapCenter]
 
-* link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/[SAP System Refresh and Cloning operations on Azure NetApp Files with SnapCenter]
+a| * link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/[SAP System Refresh and Cloning operations on Azure NetApp Files with SnapCenter]
 // end::sap[]
 
 // tag::dataops[]
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/[Hadoop Tiering to NetApp NFS (HOT) and S3 (COLD) with NetApp XCP — End to End Guide & Automation]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/[Hadoop Tiering to NetApp NFS (HOT) and S3 (COLD) with NetApp XCP — End to End Guide & Automation]
 
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/[Modernizing Data Architecture: Migrating HDFS Hive to Iceberg on Object Storage with NetApp]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/[Modernizing Data Architecture: Migrating HDFS Hive to Iceberg on Object Storage with NetApp]
 
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/[Modern Data platform – Databricks with NetApp ONTAP (FSxN-AWS)]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/[Modern Data platform – Databricks with NetApp ONTAP (FSxN-AWS)]
 
-* link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/[Building a high-performance Flink architecture with ONTAP]
+a| * link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/[Building a high-performance Flink architecture with ONTAP]
 // end::dataops[]
 
 // tag::virt[]
-* link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780[NetApp and VMware – Better than ever]
+a| * link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780[NetApp and VMware – Better than ever]
 // end::virt[]
 
 // tag::header[]
