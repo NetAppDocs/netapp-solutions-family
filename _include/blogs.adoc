@@ -1,5 +1,5 @@
 // tag::header[]
-[width=100%,cols="100%", frame=none, grid=none]
+[width=100%,cols="100%", frame=none, grid=rows]
 |===
 // end::header[]
 // tag::virt[]
