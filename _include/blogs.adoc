@@ -4,6 +4,7 @@
 | *Category* | *Blog Title*
 // end::header[]
 // tag::ai[]
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949[KV CacheBlend - What is it, and why it matters]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655[Zero to LLM Inference in Five Minutes]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836[Zero to LLM Inference - vLLM Edition]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914[LLM Inference - KV Cache Offloading to ONTAP with vLLM and GDS]
