@@ -42,7 +42,7 @@ include::_include/blogs.adoc[tags=header;containers]
 --
 include::_include/blogs.adoc[tags=header;sap]
 --
-.Database
+.Databases
 --
 include::_include/blogs.adoc[tags=header;db]
 --
