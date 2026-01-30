@@ -3,6 +3,16 @@
 |===
 | *Category* | *Blog Title*
 // end::header[]
+// tag::ai[]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655[Zero to LLM Inference in Five Minutes]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836[Zero to LLM Inference - vLLM Edition]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914[LLM Inference - KV Cache Offloading to ONTAP with vLLM and GDS]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-with-NVIDIA-NIM-and-Google-Cloud-NetApp-Volumes/ba-p/462253[Zero to LLM Inference with NVIDIA NIM and Google Cloud NetApp Volumes]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Host-OpenAI-gpt-oss-on-NetApp-AIPod/ba-p/462603[Host OpenAI gpt-oss on NetApp AIPod]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-Cache-Offloading-When-is-it-Beneficial/ba-p/462900[KV Cache Offloading - When is it Beneficial?]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-CPU-RAM-vs-storage/ba-p/464463[KV cache offloading - CPU RAM vs. storage]
+| ai | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230[KV cache offloading - exploring the benefits of shared storage]
+// end::ai[]
 // tag::virt[]
 | Virtualization | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893[ONTAP Tools for VMware 10.5 (Part 1 of 3): Hardening Your VMware Private Cloud]
 | Virtualization | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072[ONTAP Tools for VMware 10.5 (Part 2 of 3): Protecting your VMware vSphere and VCF Deployments]
