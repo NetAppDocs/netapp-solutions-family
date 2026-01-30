@@ -26,7 +26,7 @@
 // end::virt[]
 // tag::ai[]
 | link:https://docs.netapp.com/us-en/netapp-solutions-ai/blogs.html[Additional AI blogs]
-// end:ai[]
+// end::ai[]
 // tag::virt[]
 | link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/blogs.html[Additional virtualization blogs]
 // end::virt[]
