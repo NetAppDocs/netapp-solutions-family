@@ -34,7 +34,7 @@
 | link:https://docs.netapp.com/us-en/netapp-solutions-cloud/blogs.html[Additional public and hybrid cloud blogs]
 // end::cloud[]
 // tag::db[]
-| link:https://docs.netapp.com/us-en/netapp-solutions-databases/blogs.html[Additional Database blogs]
+| link:https://docs.netapp.com/us-en/netapp-solutions-databases/blogs.html[Additional database blogs]
 // end::db[]
 // tag::containers[]
 | link:https://docs.netapp.com/us-en/netapp-solutions-containers/blogs.html[Additional containers blogs]
