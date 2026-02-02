@@ -66,3 +66,9 @@ product-family:
       url: ../netapp-solutions-dataops/index.html
       summary: Solutions to manage your storage and data services, on premises and across clouds.
       tags: all,automation,protection,workloads
+
+    - title: Demo and Blogs
+      icon: ./media/icon_blogs_demos-2286_v3.png
+      url: blogs-display.html
+      summary: Review the collection of technical demos and blogs for a variety of NetAp solutions.
+      tags: all,automation,protection,workloads
