@@ -19,6 +19,7 @@
 | *Category* | *Blog Title*
 // end::header[]
 // tag::ai[]
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594[KV cache offloading tuning for long context]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569[NetApp + Starburst: Designing a Data Lakehouse for AI at scale]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508[MCP vs. Agent Skills - What are the differences, and why do they matter for NetApp?]
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-with-vLLM-LMCache-and-ONTAP-pNFS/ba-p/467414[KV cache offloading with vLLM, LMCache, and ONTAP pNFS]
