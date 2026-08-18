@@ -18,6 +18,9 @@
 |===
 | *Category* | *Blog Title*
 // end::header[]
+// tag::ai[]
+| AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm[Comparing KV cache offloading frameworks for vLLM]
+// end::ai[]
 // tag::dataops[]
 | Data Platform | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801[Architecting an Enterprise Backup and Disaster Recovery for Cloudera with NetApp]
 // end::dataops[]
