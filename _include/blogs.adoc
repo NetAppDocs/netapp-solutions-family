@@ -19,6 +19,7 @@
 | *Category* | *Blog Title*
 // end::header[]
 // tag::ai[]
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds[NetApp OneHouse: Unifying Data from BI to AI Across Datacenters, Hyperscalers, and NeoClouds]
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm[Comparing KV cache offloading frameworks for vLLM]
 // end::ai[]
 // tag::dataops[]
